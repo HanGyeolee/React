@@ -1,8 +1,8 @@
 @echo off
 setlocal
 
-echo 새 리액트 프로젝트 생성
-set /p name=이름:
+echo Create New React Project
+set /p name=Project Name:
 call mkproj %name%
 echo yarn start> %name%\run.bat
 mkdir %name%\src\pages
