@@ -1,3 +1,5 @@
+# Localize
+* [English](https://github.com/HanGyeolee/React/blob/main/README.en-US.md)
 # React
 본인이 사용하기 위한 React와 관련된 프로젝트 생성기
 
