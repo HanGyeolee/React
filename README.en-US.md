@@ -15,4 +15,4 @@ In addition, run.bat is created in the project, making it easier to run the proj
   echo react-native run-android> %name%\run.bat
   ```
 
-All project names must be lowercase, without capitalization.
+All project names must be lowercase, without capitalization and spacing.
