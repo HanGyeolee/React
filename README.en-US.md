@@ -1,3 +1,5 @@
+# Localize
+* [한국어](https://github.com/HanGyeolee/React/blob/main/README.md)
 # React
 A project creator related to React for my own use.
 
